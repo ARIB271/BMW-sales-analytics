@@ -15,3 +15,4 @@ Highlighted high-growth vehicle segments, with SUVs showing maximum YoY growth.
 Revenue trends indicated seasonal variations impacting quarterly performance.
 Visual comparisons revealed customer preference shifts across product categories.
 
+PHOTO OF DASHBOARD - https://github.com/ARIB271/BMW-sales-analytics/blob/main/BMW%20.png
